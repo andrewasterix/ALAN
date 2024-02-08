@@ -1,0 +1,35 @@
+
+Il valore di lambda per [1, 1, 1] è: 5.00000 
+
+Il numero di iterazioni per [1, 1, 1] è: 45.00000 
+
+eig_vect1 =
+
+    1.3889
+    4.4444
+    5.0000
+
+
+Il valore di lambda per [3, 10, 4] è: 3.00000 
+
+Il numero di iterazioni per [3, 10, 4] è: 24.00000 
+
+eig_vect2 =
+
+    0.5000
+    3.0000
+    2.0000
+
+La convergenza lambda2/lambda1 è: 0.60000 
+
+Metodo delle potenze inverse con mu = 4
+
+Il valore di lambda per mu = 4 è: 4.06038 
+Il numero di iterazioni per mu = 4 è: 1001.00000 
+
+Metodo delle potenze inverse con mu=4.5
+
+Il valore di lambda per mu = 4.5 è: 5.00000 
+Il numero di iterazioni per mu = 4.5 è: 57.00000 
+
+La convergenza per il metodo delle potenze inverse e lambda2/lambda1 è: 0.12075 

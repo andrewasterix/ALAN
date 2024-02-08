@@ -1,0 +1,19 @@
+Risoluzione di Ac = y con SVD
+    0.0070
+    0.9567
+   -0.1263
+
+Risoluzione di Ac = y con QR
+    0.0070
+    0.9567
+   -0.1263
+
+Risoluzione di Ac = y con A'Ac = A'y
+    0.0070
+    0.9567
+   -0.1263
+
+Risoluzione di Ac = y con c = A\y
+    0.0070
+    0.9567
+   -0.1263

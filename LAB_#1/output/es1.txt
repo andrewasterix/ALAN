@@ -1,0 +1,83 @@
+Quanto i vale: 0
+La varibile a: 1
+La varibile b: 8e+20
+La varibile c: -8e+20
+
+La somma (a + b) + c : 0
+La somma a + (b + c) : 1
+L'errore assoluto della somma (a + b) + c : 1
+L'errore assoluto della somma a + (b + c) : 0
+L'errore relativo della somma (a + b) + c : 1
+L'errore relativo della somma a + (b + c) : 0
+---------------------
+Quanto i vale: 1
+La varibile a: 11
+La varibile b: 8e+20
+La varibile c: -8e+20
+
+La somma (a + b) + c : 0
+La somma a + (b + c) : 11
+L'errore assoluto della somma (a + b) + c : 11
+L'errore assoluto della somma a + (b + c) : 0
+L'errore relativo della somma (a + b) + c : 1
+L'errore relativo della somma a + (b + c) : 0
+---------------------
+Quanto i vale: 2
+La varibile a: 111
+La varibile b: 8e+20
+La varibile c: -8e+20
+
+La somma (a + b) + c : 0
+La somma a + (b + c) : 111
+L'errore assoluto della somma (a + b) + c : 111
+L'errore assoluto della somma a + (b + c) : 0
+L'errore relativo della somma (a + b) + c : 1
+L'errore relativo della somma a + (b + c) : 0
+---------------------
+Quanto i vale: 3
+La varibile a: 1111
+La varibile b: 8e+20
+La varibile c: -8e+20
+
+La somma (a + b) + c : 0
+La somma a + (b + c) : 1111
+L'errore assoluto della somma (a + b) + c : 1111
+L'errore assoluto della somma a + (b + c) : 0
+L'errore relativo della somma (a + b) + c : 1
+L'errore relativo della somma a + (b + c) : 0
+---------------------
+Quanto i vale: 4
+La varibile a: 11111
+La varibile b: 8e+20
+La varibile c: -8e+20
+
+La somma (a + b) + c : 0
+La somma a + (b + c) : 11111
+L'errore assoluto della somma (a + b) + c : 11111
+L'errore assoluto della somma a + (b + c) : 0
+L'errore relativo della somma (a + b) + c : 1
+L'errore relativo della somma a + (b + c) : 0
+---------------------
+Quanto i vale: 5
+La varibile a: 111111
+La varibile b: 8e+20
+La varibile c: -8e+20
+
+La somma (a + b) + c : 131072
+La somma a + (b + c) : 111111
+L'errore assoluto della somma (a + b) + c : 19961
+L'errore assoluto della somma a + (b + c) : 0
+L'errore relativo della somma (a + b) + c : 0.179649
+L'errore relativo della somma a + (b + c) : 0
+---------------------
+Quanto i vale: 6
+La varibile a: 1.11111e+06
+La varibile b: 8e+20
+La varibile c: -8e+20
+
+La somma (a + b) + c : 1.04858e+06
+La somma a + (b + c) : 1.11111e+06
+L'errore assoluto della somma (a + b) + c : 62535
+L'errore assoluto della somma a + (b + c) : 0
+L'errore relativo della somma (a + b) + c : 0.0562815
+L'errore relativo della somma a + (b + c) : 0

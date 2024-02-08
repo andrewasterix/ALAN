@@ -1,0 +1,181 @@
+---- Algoritmo 1 ----
+x= 0.5 N= 3
+exp(x) = 1.64872
+Fn(x) = 1.64583
+Errore Assoluto = -0.00288794
+Errore Relativo = -0.00175162
+
+x= 0.5 N= 10
+exp(x) = 1.64872
+Fn(x) = 1.64872
+Errore Assoluto = -1.27627e-11
+Errore Relativo = -7.74096e-12
+
+x= 0.5 N= 50
+exp(x) = 1.64872
+Fn(x) = 1.64872
+Errore Assoluto = -4.44089e-16
+Errore Relativo = -2.69354e-16
+
+x= 0.5 N= 100
+exp(x) = 1.64872
+Fn(x) = 1.64872
+Errore Assoluto = -4.44089e-16
+Errore Relativo = -2.69354e-16
+
+x= 0.5 N= 150
+exp(x) = 1.64872
+Fn(x) = 1.64872
+Errore Assoluto = -4.44089e-16
+Errore Relativo = -2.69354e-16
+
+x= 30 N= 3
+exp(x) = 1.06865e+13
+Fn(x) = 4981
+Errore Assoluto = -1.06865e+13
+Errore Relativo = -1
+
+x= 30 N= 10
+exp(x) = 1.06865e+13
+Fn(x) = 2.3883e+08
+Errore Assoluto = -1.06862e+13
+Errore Relativo = -0.999978
+
+x= 30 N= 50
+exp(x) = 1.06865e+13
+Fn(x) = 1.06833e+13
+Errore Assoluto = -3.18471e+09
+Errore Relativo = -0.000298013
+
+x= 30 N= 100
+exp(x) = 1.06865e+13
+Fn(x) = 1.06865e+13
+Errore Assoluto = 0.00390625
+Errore Relativo = 3.65532e-16
+
+x= 30 N= 150
+exp(x) = 1.06865e+13
+Fn(x) = 1.06865e+13
+Errore Assoluto = 0.00390625
+Errore Relativo = 3.65532e-16
+
+x= -0.5 N= 3
+exp(x) = 0.606531
+Fn(x) = 0.604167
+Errore Assoluto = -0.00236399
+Errore Relativo = -0.00389757
+
+x= -0.5 N= 10
+exp(x) = 0.606531
+Fn(x) = 0.606531
+Errore Assoluto = 1.17416e-11
+Errore Relativo = 1.93586e-11
+
+x= -0.5 N= 50
+exp(x) = 0.606531
+Fn(x) = 0.606531
+Errore Assoluto = -1.11022e-16
+Errore Relativo = -1.83045e-16
+
+x= -0.5 N= 100
+exp(x) = 0.606531
+Fn(x) = 0.606531
+Errore Assoluto = -1.11022e-16
+Errore Relativo = -1.83045e-16
+
+x= -0.5 N= 150
+exp(x) = 0.606531
+Fn(x) = 0.606531
+Errore Assoluto = -1.11022e-16
+Errore Relativo = -1.83045e-16
+
+x= -30 N= 3
+exp(x) = 9.35762e-14
+Fn(x) = -4079
+Errore Assoluto = -4079
+Errore Relativo = -4.35901e+16
+
+x= -30 N= 10
+exp(x) = 9.35762e-14
+Fn(x) = 1.21255e+08
+Errore Assoluto = 1.21255e+08
+Errore Relativo = 1.29579e+21
+
+x= -30 N= 50
+exp(x) = 9.35762e-14
+Fn(x) = 8.78229e+08
+Errore Assoluto = 8.78229e+08
+Errore Relativo = 9.38517e+21
+
+x= -30 N= 100
+exp(x) = 9.35762e-14
+Fn(x) = -4.82085e-06
+Errore Assoluto = -4.82085e-06
+Errore Relativo = -5.15179e+07
+
+x= -30 N= 150
+exp(x) = 9.35762e-14
+Fn(x) = -4.82086e-06
+Errore Assoluto = -4.82086e-06
+Errore Relativo = -5.1518e+07
+
+---- Algoritmo 2 ----
+x= -0.5 N= 3
+exp(x) = 0.606531
+1/Fn(x) = 0.607595
+Errore Assoluto = 0.00106428
+Errore Relativo = 0.0017547
+
+x= -0.5 N= 10
+exp(x) = 0.606531
+1/Fn(x) = 0.606531
+Errore Assoluto = 4.69513e-12
+Errore Relativo = 7.74097e-12
+
+x= -0.5 N= 50
+exp(x) = 0.606531
+1/Fn(x) = 0.606531
+Errore Assoluto = 1.11022e-16
+Errore Relativo = 1.83045e-16
+
+x= -0.5 N= 100
+exp(x) = 0.606531
+1/Fn(x) = 0.606531
+Errore Assoluto = 1.11022e-16
+Errore Relativo = 1.83045e-16
+
+x= -0.5 N= 150
+exp(x) = 0.606531
+1/Fn(x) = 0.606531
+Errore Assoluto = 1.11022e-16
+Errore Relativo = 1.83045e-16
+
+x= -30 N= 3
+exp(x) = 9.35762e-14
+1/Fn(x) = 0.000200763
+Errore Assoluto = 0.000200763
+Errore Relativo = 2.14545e+09
+
+x= -30 N= 10
+exp(x) = 9.35762e-14
+1/Fn(x) = 4.18709e-09
+Errore Assoluto = 4.18699e-09
+Errore Relativo = 44744.2
+
+x= -30 N= 50
+exp(x) = 9.35762e-14
+1/Fn(x) = 9.36041e-14
+Errore Assoluto = 2.78952e-17
+Errore Relativo = 0.000298102
+
+x= -30 N= 100
+exp(x) = 9.35762e-14
+1/Fn(x) = 9.35762e-14
+Errore Assoluto = -3.78653e-29
+Errore Relativo = -4.04647e-16
+
+x= -30 N= 150
+exp(x) = 9.35762e-14
+1/Fn(x) = 9.35762e-14
+Errore Assoluto = -3.78653e-29
+Errore Relativo = -4.04647e-16
